@@ -6,7 +6,7 @@
 Summary:	Mod_spam_die is a DSO module for the apache web server
 Name:		apache-%{mod_name}
 Version:	0.1.2
-Release:	%mkrel 5
+Release:	%mkrel 6
 Group:		System/Servers
 License:	GPL
 URL:		http://spam-die.sourceforge.net/
