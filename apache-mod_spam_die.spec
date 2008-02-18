@@ -3,7 +3,7 @@
 %define mod_conf 84_%{mod_name}.conf
 %define mod_so %{mod_name}.so
 
-Summary:	Mod_spam_die is a DSO module for the apache web server
+Summary:	DSO module for the apache web server
 Name:		apache-%{mod_name}
 Version:	0.1.2
 Release:	%mkrel 6
