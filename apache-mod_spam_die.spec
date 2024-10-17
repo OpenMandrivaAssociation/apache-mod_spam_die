@@ -9,7 +9,7 @@ Version:	0.1.2
 Release:	17
 Group:		System/Servers
 License:	GPL
-URL:		http://spam-die.sourceforge.net/
+URL:		https://spam-die.sourceforge.net/
 Source0:	%{mod_name}-%{version}.tar.bz2
 Source1:	%{mod_conf}.bz2
 Requires(pre): rpm-helper
